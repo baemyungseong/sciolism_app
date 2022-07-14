@@ -1,0 +1,1056 @@
+[
+  {
+    "id" : "THPTVL21207",
+    "description": "Đề thi tốt nghiệp THPT năm 2021 môn Vật lý Bộ GD&ĐT mã đề 207",
+    "questions": [
+      {
+        "question": "Câu 1. Trong chân không, ánh sáng màu tím có bước sóng nằm trong khoảng",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "từ 380 mm đến 440 mm."
+          },
+          {
+            "identifier": "B",
+            "answer": "từ 380 nm đến 440 nm."
+          },
+          {
+            "identifier": "C",
+            "answer": "từ 380 cm đến 440 cm."
+          },
+          {
+            "identifier": "D",
+            "answer": "từ 380 pm đến 440 pm."
+          }
+        ],
+        "correctAnswer": "B"
+      },
+
+      {
+        "question": "Câu 2. Bộ phận nào sau đây là một trong ba bộ phận chính của máy quang phổ lăng kính",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "Mạch biến điệu."
+          },
+          {
+            "identifier": "B",
+            "answer": "Mạch tách sóng."
+          },
+          {
+            "identifier": "C",
+            "answer": "Pin quang điện."
+          },
+          {
+            "identifier": "D",
+            "answer": "Hệ tán sắc."
+          }
+        ],
+        "correctAnswer": "D"
+      },
+
+      {
+        "question": "Câu 3: Tia nào sau đây thường được sử dụng trong các bộ điều khiển từ xa để điều khiển hoạt động của tivi, quạt điện, máy điều hòa nhiệt độ?",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "Tia γ."
+          },
+          {
+            "identifier": "B",
+            "answer": "Tia tử ngoại."
+          },
+          {
+            "identifier": "C",
+            "answer": "Tia X."
+          },
+          {
+            "identifier": "D",
+            "answer": "Tia hồng ngoại."
+          }
+        ],
+        "correctAnswer": "D"
+      },
+
+      {
+        "question": "Câu 4: Khi một con lắc lò xo đang hoạt động tắt dần do tác dụng của lực ma sát thì cơ năng của con lắc chuyển hóa dần dần thành",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "điện năng."
+          },
+          {
+            "identifier": "B",
+            "answer": "hóa năng."
+          },
+          {
+            "identifier": "C",
+            "answer": ". quang năng."
+          },
+          {
+            "identifier": "D",
+            "answer": "nhiệt năng."
+          }
+        ],
+        "correctAnswer": "D"
+      },
+
+      {
+        "question": "Câu 5: Đặt một hiệu điện thế không đổi U vào hai đầu một đoạn mạch tiêu thụ điện năng thì cường độ dòng điện trong đoạn mạch là I. Trong khoảng thời gian t, điện năng tiêu thụ của đoạn mạch là A. Công thức nào sau đây đúng?",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "A=UIt."
+          },
+          {
+            "identifier": "B",
+            "answer": "A=UI/t."
+          },
+          {
+            "identifier": "C",
+            "answer": "A=(Ut^2)/I"
+          },
+          {
+            "identifier": "D",
+            "answer": "A=UIt^2"
+          }
+        ],
+        "correctAnswer": "A"
+      },
+
+      {
+        "question": "Câu 6: Theo thuyết tương đối, một vật đứng yên có năng lượng nghỉ E_0. Khi vật chuyển động thì có năng lượng toàn phần là E, động năng của vật lúc này là",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "W_đ=E-E_0."
+          },
+          {
+            "identifier": "B",
+            "answer": "W_đ=E+E_0."
+          },
+          {
+            "identifier": "C",
+            "answer": "W_đ=1/2 (E+E_0 )."
+          },
+          {
+            "identifier": "D",
+            "answer": "W_đ=1/2 (E-E_0 )."
+          }
+        ],
+        "correctAnswer": "A"
+      },
+
+      {
+        "question": "Câu 7: Sự phát quang của nhiều chất rắn có đặc điểm là ánh sáng phát quang có thể kéo dài một khoảng thời gian nào đó sau khi tắt ánh sáng kích thích. Sự phát quang này gọi là",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "sự lân quang."
+          },
+          {
+            "identifier": "B",
+            "answer": "sự nhiễu xạ ánh sáng."
+          },
+          {
+            "identifier": "C",
+            "answer": "sự giao thoa ánh sáng."
+          },
+          {
+            "identifier": "D",
+            "answer": "sự tán sắc ánh sáng."
+          }
+        ],
+        "correctAnswer": "A"
+      },
+
+      {
+        "question": "Đặt điện áp xoay chiều có tần số góc ω vào hai đầu đoạn mạch gồm điện trở R mắc nối tiếp với cuộn cảm thuần có độ tự cảm L. Hệ số công suất của đoạn mạch bằng",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "R/(R+ω^2 L)."
+          },
+          {
+            "identifier": "B",
+            "answer": "R/√(R^2+ωL^2 )."
+          },
+          {
+            "identifier": "C",
+            "answer": "R/(R+ωL)."
+          },
+          {
+            "identifier": "D",
+            "answer": "R/√(R^2+ω^2 L^2 )."
+          }
+        ],
+        "correctAnswer": "D"
+      },
+
+      {
+        "question": "Câu 9. Trong hệ SI, đơn vị của điện tích là",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "culông (C)."
+          },
+          {
+            "identifier": "B",
+            "answer": "vôn trên mét (V/m)."
+          },
+          {
+            "identifier": "C",
+            "answer": ". fara (F)."
+          },
+          {
+            "identifier": "D",
+            "answer": "vôn (V)."
+          }
+        ],
+        "correctAnswer": "A"
+      },
+
+      {
+        "question": "Câu 10: Một con lắc đơn có chiều dài l, đang dao động điều hòa ở nơi có gia tốc trọng trường g. Đại lượng T=2π√(l/g) được gọi là",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "tần số của dao động."
+          },
+          {
+            "identifier": "B",
+            "answer": "tần số góc của dao động."
+          },
+          {
+            "identifier": "C",
+            "answer": "pha ban đầu của dao động."
+          },
+          {
+            "identifier": "D",
+            "answer": "chu kì của dao động."
+          }
+        ],
+        "correctAnswer": "D"
+      },
+
+      {
+        "question": "Trên một sợi dây đang có sóng dừng. Sóng truyền trên dây có bước sóng λ. Khoảng cách giữa hai bụng sóng liên tiếp là",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "λ/4."
+          },
+          {
+            "identifier": "B",
+            "answer": "λ."
+          },
+          {
+            "identifier": "C",
+            "answer": " λ/2."
+          },
+          {
+            "identifier": "D",
+            "answer": "2λ."
+          }
+        ],
+        "correctAnswer": "C"
+      },
+
+      {
+        "question": "Câu 12. Máy phát điện xoay chiều một pha được cấu tạo bởi hai bộ phận chính là",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "cuộn sơ cấp và cuộn thứ cấp."
+          },
+          {
+            "identifier": "B",
+            "answer": "phần cảm và phần ứng."
+          },
+          {
+            "identifier": "C",
+            "answer": "cuộn thứ cấp và phần cảm."
+          },
+          {
+            "identifier": "D",
+            "answer": "cuộn sơ cấp và phần ứng."
+          }
+        ],
+        "correctAnswer": "B"
+      },
+
+      {
+        "question": "Câu 13: Đặc trưng nào sau đây không phải là đặc trưng vật lí của âm?",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "Cường độ âm."
+          },
+          {
+            "identifier": "B",
+            "answer": "Tần số âm."
+          },
+          {
+            "identifier": "C",
+            "answer": "Độ to của âm."
+          },
+          {
+            "identifier": "D",
+            "answer": "Mức cường độ âm."
+          }
+        ],
+        "correctAnswer": "C"
+      },
+
+      {
+        "question": "Câu 14: Hai dao động điều hòa cùng phương có phương trình lần lượt là x_1=A_1 cos(ωt+φ_1 ) và x_2=A_2 cos(ωt+φ_2 ) với A_1,A_2 và ω là các hằng số dương. Dao động tổng hợp của hai dao động trên có biên độ là A. Công thức nào sau đây đúng?",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "A^2=A_1^2+A_2^2+2A_1 A_2 cos(φ_2-φ_1 )."
+          },
+          {
+            "identifier": "B",
+            "answer": "A^2=A_1^2+A_2^2-2A_1 A_2 cos(φ_2-φ_1 )."
+          },
+          {
+            "identifier": "C",
+            "answer": "A^2=A_1^2-A_2^2+2A_1 A_2 cos(φ_2-φ_1 )."
+          },
+          {
+            "identifier": "D",
+            "answer": "A^2=A_1^2+A_2^2+2A_1 A_2 cos(φ_2+φ_1 )."
+          }
+        ],
+        "correctAnswer": "A"
+      },
+
+      {
+        "question": "Câu 15: Một con lắc lò xo gồm lò xo nhẹ và vật nhỏ có khối lượng m, đang dao động điều hòa. Gọi v là vận tốc của vật. Đại lượng W_đ=1/2 mv^2 được gọi là",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": " lực kéo về."
+          },
+          {
+            "identifier": "B",
+            "answer": "động năng của con lắc."
+          },
+          {
+            "identifier": "C",
+            "answer": ". lực ma sát."
+          },
+          {
+            "identifier": "D",
+            "answer": "thế năng của con lắc."
+          }
+        ],
+        "correctAnswer": "B"
+      },
+
+      {
+        "question": "Câu 16. : Hiện tượng nào sau đây được ứng dụng để luyện nhôm?",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "Hiện tượng nhiệt điện."
+          },
+          {
+            "identifier": "B",
+            "answer": "Hiện tượng đoản mạch."
+          },
+          {
+            "identifier": "C",
+            "answer": "Hiện tượng điện phân."
+          },
+          {
+            "identifier": "D",
+            "answer": ". Hiện tượng siêu dẫn."
+          }
+        ],
+        "correctAnswer": "C"
+      },
+
+      {
+        "question": "Câu 17. Đặt điện áp xoay chiều có tần số góc ω vào hai đầu đoạn mạch mắc nối tiếp gồm điện trở, cuộn cảm thuần có độ tự cảm L và tụ điện có điện dung C. Điều kiện để trong mạch có cộng hưởng là",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "ωLC = 1."
+          },
+          {
+            "identifier": "B",
+            "answer": "2ωLC = 1."
+          },
+          {
+            "identifier": "C",
+            "answer": "2(ω^2)LC = 1."
+          },
+          {
+            "identifier": "D",
+            "answer": "(ω^2)LC = 1."
+          }
+        ],
+        "correctAnswer": "D",
+        "solution" : "Mạch có cộng hưởng điện: Z_L=Z_C → ωL=1/ωC → (ω^2)LC=1"
+      },
+
+      {
+        "question": "Câu 18: Trong sự truyền sóng cơ, tần số dao động của một phần tử môi trường có sóng truyền qua được gọi là",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "tốc độ truyền sóng."
+          },
+          {
+            "identifier": "B",
+            "answer": "năng lượng sóng."
+          },
+          {
+            "identifier": "C",
+            "answer": "tần số của sóng."
+          },
+          {
+            "identifier": "D",
+            "answer": "biên độ của sóng."
+          }
+        ],
+        "correctAnswer": "C"
+      },
+
+      {
+        "question": "Câu 19. Dùng thuyết lượng tử áng sáng có thể giải thích được",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "hiện tượng nhiễu xạ ánh sáng."
+          },
+          {
+            "identifier": "B",
+            "answer": ". định luật về giới hạn quang điện."
+          },
+          {
+            "identifier": "C",
+            "answer": "hiện tượng giao thoa ánh sáng."
+          },
+          {
+            "identifier": "D",
+            "answer": "định luật phóng xạ."
+          }
+        ],
+        "correctAnswer": "B"
+      },
+
+      {
+        "question": "Câu 20. Hạt nhân (_92^235)U “bắt” một notron rồi vỡ thành hai mảnh nhẹ hơn và kèm theo vài notron. Đây là",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "phản ứng nhiệt hạch."
+          },
+          {
+            "identifier": "B",
+            "answer": "hiện tượng phóng xạ."
+          },
+          {
+            "identifier": "C",
+            "answer": "hiện tượng quang điện."
+          },
+          {
+            "identifier": "D",
+            "answer": "phản ứng phân hạch."
+          }
+        ],
+        "correctAnswer": "D"
+      },
+
+      {
+        "question": "Câu 21. Khi nói về sóng điện từ, phát biểu nào sau đây sai?",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "Sóng điện từ không lan truyền được trong điện môi."
+          },
+          {
+            "identifier": "B",
+            "answer": ". Sóng điện từ là sóng ngang."
+          },
+          {
+            "identifier": "C",
+            "answer": "Sóng điện từ mang năng lượng."
+          },
+          {
+            "identifier": "D",
+            "answer": "Sóng điện từ có thể bị phản xạ, khúc xạ như ánh sáng."
+          }
+        ],
+        "correctAnswer": "A"
+      },
+
+      {
+        "question": "Câu 22. Đặt điện áp xoay chiều có giá trị hiệu dụng U vào hai đầu đoàn mạch chỉ có điện trở R. Biểu thức cường độ dòng điện trong mạch là i=I√2 cosωt (I>0). Biểu thức điện áp giữa hai đầu đoạn mạch là",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "u=U√2 cosωt."
+          },
+          {
+            "identifier": "B",
+            "answer": "u=Ucos(ωt-π/2)."
+          },
+          {
+            "identifier": "C",
+            "answer": "u=Ucosωt."
+          },
+          {
+            "identifier": "D",
+            "answer": "u=U√2 cos(ωt+π/2)."
+          }
+        ],
+        "correctAnswer": "A",
+        "solution" : "Mạch điện xoay chiều chỉ có điện trở thì u và i cùng pha với nhau."
+      },
+
+      {
+        "question": "Câu 23. Mạch chọn sóng ở một máy thu thanh là mạch dao động gồm cuộn cảm và tụ điện có điện dung C thay đổi được. Biết rằng, muốn thu được sóng điện từ thì tần số riêng của mạch dao động phải bằng tần số của sóng điện từ cần thu (để có cộng hưởng). Khi C=C_0 thì bước sóng điện từ mà máy này thu được là λ_0. Khi C=9C_0thì bước sóng của sóng điện từ mà máy này thu được là",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "9λ_0."
+          },
+          {
+            "identifier": "B",
+            "answer": "λ_0/9."
+          },
+          {
+            "identifier": "C",
+            "answer": "λ_0/3."
+          },
+          {
+            "identifier": "D",
+            "answer": "3λ_0."
+          }
+        ],
+        "correctAnswer": "D",
+        "solution" : "λ=2π.c√(L.9.C_o )=3.2π.c.√(LC_o )=3.λ_o"
+      },
+
+      {
+        "question": "Câu 24. Trong thí nghiệm giao thoa sóng ở mặt chất lỏng, tại hai điểm S_1  và S_2 có hai nguồn dao động cùng pha theo phương thẳng đứng, phát ra hai sóng kết hợp có bước sóng 1,2 cm. Trên đoạn thẳng S_1 S_2 khoảng cách giữa hai cực tiểu giao thoa liên tiếp bằng",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "0,3 cm."
+          },
+          {
+            "identifier": "B",
+            "answer": "0,6 cm."
+          },
+          {
+            "identifier": "C",
+            "answer": "1,2 cm."
+          },
+          {
+            "identifier": "D",
+            "answer": "2,4 cm."
+          }
+        ],
+        "correctAnswer": "B",
+        "solution" : "Khoảng cách giữa hai cực tiểu giao thoa liên tiếp ΔL=λ/2"
+      },
+
+      {
+        "question": "Câu 25. Trong thí nghiệm Y-âng về giao thoa ánh sáng, nguồn sáng phát ra ánh sáng đơn sắc có bước sóng λ. Trên màn quan sát, vân sáng bậc 5 xuất hiện tại vị trí có hiệu đường đi của ánh sáng từ hai khe đến đó bằng",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "5,5λ."
+          },
+          {
+            "identifier": "B",
+            "answer": "5λ."
+          },
+          {
+            "identifier": "C",
+            "answer": "4,5λ."
+          },
+          {
+            "identifier": "D",
+            "answer": "4λ."
+          }
+        ],
+        "correctAnswer": "B",
+        "solution" : "d_2-d_1=kλ; vân sáng bậc 5 có k=5"
+      },
+
+      {
+        "question": "Câu 26. Một chất điểm dao động với phương trình x=8cos5t cm (t tính bằng s). Tốc độ chất điểm khi đi qua vị trí cân bằng là",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "100 cm/s."
+          },
+          {
+            "identifier": "B",
+            "answer": "20 cm/s."
+          },
+          {
+            "identifier": "C",
+            "answer": "40 cm/s."
+          },
+          {
+            "identifier": "D",
+            "answer": "200 cm/s."
+          }
+        ],
+        "correctAnswer": "C",
+        "solution" : "Vật qua VTCB  tốc độ đạt cực đại v=v_max =ω.A"
+      },
+
+      {
+        "question": "Câu 27. Một máy biến áp lí tưởng có số vòng dây của cộn sơ cấp và số vòng dây của cuộn thứ cấp lần lượt là N_1=1100 vòng và N_2. Đặt điện áp xoay chiều có giá trị hiệu dụng 220 V vào hai đầu cuộn sơ cấp thì điện áp hiệu dụng giữa hai đầu cuộn thứ cấp để hở là 6 V. Giá trị của N2 là",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "30 vòng."
+          },
+          {
+            "identifier": "B",
+            "answer": "300 vòng."
+          },
+          {
+            "identifier": "C",
+            "answer": "120 vòng."
+          },
+          {
+            "identifier": "D",
+            "answer": "60 vòng."
+          }
+        ],
+        "correctAnswer": "A",
+        "solution" : "Áp dụng công thức của máy biến thế U_1/U_2 =N_1/N_2 →N_2"
+      },
+
+      {
+        "question": "Câu 28. Cho phản ứng (_1^2)H+(_Z^A)X→(_3^6)Li+(_5^10)B. Giá trị của Z Là",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "18"
+          },
+          {
+            "identifier": "B",
+            "answer": "9"
+          },
+          {
+            "identifier": "C",
+            "answer": "7."
+          },
+          {
+            "identifier": "D",
+            "answer": "14."
+          }
+        ],
+        "correctAnswer": "C",
+        "solution" : "Áp dụng định luật bảo toàn điện tích 1+Z=3+5 =>Z=7"
+      },
+
+      {
+        "question": "Câu 29. Xét nguyên tử hidro theo mẫu nguyên tử Bo. Khi nguyên tử chuyển từ trạng thái dừng có năng lượng – 0,85 eV sang trạng thái dừng có năng lượng – 13,6 eV thì nó phát ra một photon có năng lượng là",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "13,6 eV."
+          },
+          {
+            "identifier": "B",
+            "answer": "14,4 eV."
+          },
+          {
+            "identifier": "C",
+            "answer": "12,75 eV."
+          },
+          {
+            "identifier": "D",
+            "answer": "0,85 eV."
+          }
+        ],
+        "correctAnswer": "C",
+        "solution" : "ε=-0,85eV-(-13.6)eV=12,75(eV)"
+      },
+
+      {
+        "question": "Câu 30. Cho một vòng dây dẫn kín dịch chuyển ra xa một nam châm thì trong vòng dây xuất hiện một suất điện động cảm ứng. Đây là hiện tượng cảm ứng điện từ. Bản chất của hiện tượng cảm ứng điện từ này là quá trình chuyển hóa",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "điện năng thành hóa năng."
+          },
+          {
+            "identifier": "B",
+            "answer": "cơ năng thành điện năng."
+          },
+          {
+            "identifier": "C",
+            "answer": "cơ năng thành quang năng."
+          },
+          {
+            "identifier": "D",
+            "answer": "điện năng thành quang năng."
+          }
+        ],
+        "correctAnswer": "B"
+      },
+
+      {
+        "question": "Câu 31. Trong chân không, ánh sáng màu tím có bước sóng nằm trong khoảng",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "575 nm."
+          },
+          {
+            "identifier": "B",
+            "answer": "505 nm."
+          },
+          {
+            "identifier": "C",
+            "answer": "475 nm."
+          },
+          {
+            "identifier": "D",
+            "answer": "425 nm."
+          }
+        ],
+        "correctAnswer": "B",
+        "solution" : "Ta có 2,5.10^6 nm=k λD/a=k (λ.1200)/0,6→λ=(2,5.10^6.0,6)/(k.1200) nm (1) với k là số bán nguyên\nXét điều kiện λ(380 nm<λ<760 nm)ta có 380nm≤(2,5.10^6.0,6)/(k.1200) nm≤760nm→1,64≤k≤3,289\n=>k=2,5 λ=(2,5.10^(-6).0,6)/2,5.1200=500nm\n"
+      },
+
+      {
+        "question": "Câu 32. Để xác định điện dung C của một tụ điện, một học sinh mắc nối tiếp tụ điện này với một điện trở 20 Ω rồi mắc hai đầu đoạn mạch vào một nguồn điện xoay chiều có tần số thay đổi được. Dùng dao động kí điện tử để hiện thị đồng thời đồ thị điện áp giữa hai đầu điện trở và điện áp giữa hai đầu tụ điện (các đường hình sin). Thay đổi tần số của nguồn điện đến khi độ cao của hai đường hình sin trên màn hình dao động kí bằng nhau như hình bên. Biết dao động kí đã được chỉnh thang đo sao cho ứng với mỗi ô vuông trên màn hình thì cạnh nằm ngang là 0,005 s và cạnh thẳng đứng là 5 V. Giá trị của C là",
+        "image": "https://firebasestorage.googleapis.com/v0/b/e-learning-291c1.appspot.com/o/ExamQuestions%2FTHPT2021Code207%2F32.png?alt=media&token=b7466456-85c6-46fd-aa0e-5a7ad926b5ac",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "24.10^(-5) F."
+          },
+          {
+            "identifier": "B",
+            "answer": "12.10^(-5) F."
+          },
+          {
+            "identifier": "C",
+            "answer": "6,0.10^(-5) F."
+          },
+          {
+            "identifier": "D",
+            "answer": "3,0.10^(-5) F."
+          }
+        ],
+        "correctAnswer": "A",
+        "solution" : "Từ đồ thị ta thấy T=6.0,005s; do độ cao của hai đường hình sin là như nhau nên UoR=UoC →Z_C=R→1/2πfC=R→T/2πC=R→C=2,387.10^(-4) (F)≈24.10^(-5) (F)"
+      },
+
+      {
+        "question": "Câu 33. Trên một sợi dây AB dài 66 cm với đầu A cố định, đầu B tự do, đang có sóng dùng với 6 nút sóng (kể cả đầu A). Sóng truyền từ A đến B gọi là sóng tới và sóng truyền từ B về A gọi là sóng phản xạ. Tại điểm M trên dây cách A một đoạn 64,5 cm, sóng tới và sóng phản xạ lệch pha nhau",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "π/2."
+          },
+          {
+            "identifier": "B",
+            "answer": "3π/10."
+          },
+          {
+            "identifier": "C",
+            "answer": "π/4."
+          },
+          {
+            "identifier": "D",
+            "answer": "π/8."
+          }
+        ],
+        "correctAnswer": "C",
+        "solution" : "Sóng dừng có một đầu là nút một đầu là bụng nên 5 λ/2+λ/4=66cm→λ=24cm\nu_AM=a.c\"os\" (ω\"t-\"  2πAM/λ)=a cos\u2061(ωt-2π64,5/24)cm (1)\nu_BM=a.c\"os\" (ω\"t-\"  2πAB/λ)=a cos\u2061(ωt-2π66/24)cm\nSóng phản xạ tại B cùng pha với sóng tới ( đầu B tự do )\nu_B=a.c\"os\" (ω\"t-\"  2πAB/λ)=a cos\u2061(ωt-2π66/24)cm\nu_BM=a.c\"os\" (ω\"t-\"  2πAB/λ-2πBM/λ)=a cos\u2061(ωt-2π66/24-(2π.1,5)/24)cm (2)\nTừ (1) và (2) Δϕ=(2π.66)/24+(2π.1,5)/24-(2π.64.5)/24=π/4\n"
+      },
+
+      {
+        "question": "Câu 34. Đặt điện áp u=60√2 cos(300t+π/3)  Vvào hai đầu đoạn mạch AB như hình bên, trong đó R=170 Ω và điện dung C của tụ điện thay đổi được. Khi C=C_1 thì điện tích của bản tụ điện nối vào N là q=5√2.10^(-4) cos(300t+π/6)  C. Trong các biểu thức, t tính bằng s. Khi C=C_2 thì điện áp hiệu dụng giữa hai đầu R đạt giá trị cực đại, giá trị đó bằng",
+        "image": "https://firebasestorage.googleapis.com/v0/b/e-learning-291c1.appspot.com/o/ExamQuestions%2FTHPT2021Code207%2F34.png?alt=media&token=0916be05-7379-4bdf-975d-3c4ae4388053",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "51 V."
+          },
+          {
+            "identifier": "B",
+            "answer": "36 V."
+          },
+          {
+            "identifier": "C",
+            "answer": "60 V."
+          },
+          {
+            "identifier": "D",
+            "answer": "26 V."
+          }
+        ],
+        "correctAnswer": "A",
+        "solution" : "Ta có i=q’==0,15√2 c\"os\" (\"300t+\"  2π/3)(A) →{█(&Z=√((R+r)^2+(Z_L-Z_C1 )^2 )=U/I=400@&tan\u2061ϕ=(Z_L-Z_C1)/(R+r)=tan\u2061(-π/3)=-√3)┤→r=30Ω\nKhi C=C2 điện áp giữa hai đầu R đạt giá trị cực đại, mạch có cộng hưởng điện U_R=U/(R+r).R=51(V)\n"
+      },
+
+      {
+        "question": "Câu 35. Dao động của một vật là tổng hợp của hai dao động điều hòa cùng phương có li độ lần lượt là x_1  và x_2. Hình bên là đồ thị biểu diễn sự phụ thuộc của x_1  và x_2 theo thời gian t. Biết độ lớn lực kéo về tác dụng lên vật ở thời điểm t=0,2 slà 0,4 N. Động năng của vật ở thời điểm t=0,4 s là",
+        "image": "https://firebasestorage.googleapis.com/v0/b/e-learning-291c1.appspot.com/o/ExamQuestions%2FTHPT2021Code207%2F35.png?alt=media&token=64417953-6f4f-45d9-8651-d8376aa963e7",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "6,4 mJ."
+          },
+          {
+            "identifier": "B",
+            "answer": "15,6 mJ."
+          },
+          {
+            "identifier": "C",
+            "answer": "4,8 mJ"
+          },
+          {
+            "identifier": "D",
+            "answer": "11,2 mJ."
+          }
+        ],
+        "correctAnswer": "C",
+        "solution" : "Chu kỳ T ( 12 ô ) = 0.8/8.12=1,2(s)\nx_2=4 cos\u2061(5π/3 t+2π/3)cm; x_1=2 cos\u2061(5π/3 t+ϕ_1 )cm; tại thời điểm t=1s thì x1 =2cm →ϕ_1=π/3 rad\nx_1=2 cos\u2061(5π/3 t+π/3)cmx=x_1+x_2=2√7 c\"os\" (5π/3 t+1,761)cm; t=0,2s ta có x=-5cm=0,05m;\nF_kv=-mω^2 x=-0,4N→m=0,292(kg)\nThời điểm t=0,4 s ta có x=-4cm=-0,04m; Wđ=1/2 mω^2 (A^2-x^2)=4,8.10^(-3) (J)\n"
+      },
+
+      {
+        "question": "Câu 36. : Dùng mạch điện như hình bên để tạo ra dao động điện từ. Ban đầu đóng khóa K vào chốt a, khi dòng điện qua nguồn điện ổn định là chuyển khóa K đóng sang chốt b. Biết ξ=5 V,r=1 Ω, R=2 Ω,L=9/10π  mH,C=1/π  μF. Lấy e=1,6.10^(-19)  C. Trong khoảng thời gian 10 μs kể từ thời điểm đóng K vào chốt b, có bao nhiêu electron đã chuyển đến bản tụ điện nối với khóa K?",
+        "image": "https://firebasestorage.googleapis.com/v0/b/e-learning-291c1.appspot.com/o/ExamQuestions%2FTHPT2021Code207%2F36.png?alt=media&token=9937c343-8a73-4e75-a2bb-1f6bb4b15185",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "1,99.10^12 electron."
+          },
+          {
+            "identifier": "B",
+            "answer": "1,79.10^12 electron."
+          },
+          {
+            "identifier": "C",
+            "answer": "4,97.10^12 electron."
+          },
+          {
+            "identifier": "D",
+            "answer": "4,48.10^12 electron."
+          }
+        ],
+        "correctAnswer": "A",
+        "solution" : "Mạch ngoài có chỉ có R nối tiếp R; điện trở R nối với chốt (a) không có dòng đi qua, nên hiệu điện thế đặt vào hai đầu tụ điện C khi đóng khóa K với chốt (a) là hiệu điện thế ở hai đầu điện trở R1.\n■(I=ξ/(2R+r)=5/(2.2+1)=1 A→U_0C=IR=2 V.@q_0=CU_0=(1/π⋅10^(-6) )⋅2=(2.10^(-6))/π C.)\nKhi khóa   sáng chốt b ta có mạch dao động LC với chu kỳ\n \n  giảm từ   xuống còn  . n_e=Δq/e=(1/2⋅((2.10^(-6))/π))/((1,6.10^(-19) ) )≈1,99.10^12 \" electron.\" \n"
+      },
+
+      {
+        "question": "Câu 37. : Một mẫu chất chứa (_^60)Co là chất phóng xạ với chu kì bán rã 5,27 năm, được sử dụng trong điều trị ung thư. Gọi ΔN_0 là số hạt nhân (_^60)Co của mẫu phân rã trong 1 phút khi nó mới được sản xuất. Mẫu được coi là hết “hạn sử dụng” khi số hạt nhân (_^60)Co của mẫu phân rã trong 1 phút nhỏ hơn 0,7ΔN_0. Nếu mẫu được sản xuất vào tuần đầu tiên của tháng 8 năm 2020 thì “hạn sử dụng” của nó đến",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "tháng 6 năm 2023."
+          },
+          {
+            "identifier": "B",
+            "answer": "tháng 6 năm 2024."
+          },
+          {
+            "identifier": "C",
+            "answer": "tháng 4 năm 2023."
+          },
+          {
+            "identifier": "D",
+            "answer": "tháng 4 năm 2022."
+          }
+        ],
+        "correctAnswer": "C",
+        "solution" : "H_o=ΔN_o; H=H_o.e^(-λt)=ΔN_o.e^(-λt)≤0,7ΔN_o→λt≤ln\u2061(1/0,7)→t≤2,712 năm\nNhư vậy tính từ tháng 8 năm 2020 đến ngày hết hạn khoảng 2 năm 8 tháng tức là đến tháng 4 năm 2023\n"
+      },
+
+      {
+        "question": "Câu 38. Trong thí nghiệm giao thoa sóng ở mặt nước, hai nguồn kết hợp đặt tại hai điểm A và B, dao động cùng pha theo phương thẳng đứng, phát ra hai sóng lan truyền trên mặt nước với bước sóng λ. Ở mặt nước, C và D là hai điểm sao cho ABCD là hình vuông. Trên cạnh BC có 6 điểm cực đại giao thoa và 7 điểm cực tiểu giao thoa, trong đó có P là điểm cực tiểu giao thoa gần B nhất và Q là điểm cực tiểu giao thoa gần C nhất. Khoảng cách xa nhất có thể giữa hai điểm P và Q là",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "10,5λ."
+          },
+          {
+            "identifier": "B",
+            "answer": "9,96λ."
+          },
+          {
+            "identifier": "C",
+            "answer": "8,93λ."
+          },
+          {
+            "identifier": "D",
+            "answer": "8,40λ."
+          }
+        ],
+        "correctAnswer": "A",
+        "solutionImage": "https://firebasestorage.googleapis.com/v0/b/e-learning-291c1.appspot.com/o/ExamQuestions%2FTHPT2021Code207%2F38s.png?alt=media&token=d7ec0013-2786-4605-bdf7-4f4922444079",
+        "solution" : "Xét đường cực đại bậc k, ứng với điểm cực đại trên cạnh BC\ngần C nhất; đặt AB=a; theo bài trên BC có 6 cực đại giao thoa\nnên (k+5,5)λ<a<(k+6)λ.(1)\nĐiểm cực tiểu trên BC xa P nhất ứng với k-0,5, gần C nhất\nnên ta có a√2-a≈(k-0,5)λ→a≈(k-0,5)λ/(√2-1) (2)\nTừ (1) và (2) ta có k+5,5<((k-0,5))/(√2-1)<k+6\n\n→4,7<k<5,092; như vậy ta có k=5 →a=(5-0,5)λ/(√2-1)=10,864λ\nVậy ta có AP-BP=√(a^2+BP^2 )-BP=(k+5+0,5)λ=10,5λ→BP=0,370λ \nvà AQ-BQ=√(a^2+BQ^2 )-BQ=(k-0,5)λ=4,5λ→BP=10,864λ =>BQ-BP=10,494λ\n"
+      },
+
+      {
+        "question": "Câu 39. Đặt điện áp xoay chiều có tần số góc ω vào hai đầu đoạn mạch AB như hình bên (H1). Hình H2 là đồ thị biểu diễn sự phụ thuộc của điện áp u_AB giữa hai điểm A và B, và điện áp u_MN giữa hai điểm M và N theo thời gian t. Biết 63RCω=16 và r=18 Ω. Công suất tiêu thụ của đoạn mạch AB là",
+        "image": "https://firebasestorage.googleapis.com/v0/b/e-learning-291c1.appspot.com/o/ExamQuestions%2FTHPT2021Code207%2F39.png?alt=media&token=ddff0c00-f31e-47fc-9a1f-9fa3826930df",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "18 W."
+          },
+          {
+            "identifier": "B",
+            "answer": "20 W."
+          },
+          {
+            "identifier": "C",
+            "answer": "22 W."
+          },
+          {
+            "identifier": "D",
+            "answer": "16 W."
+          }
+        ],
+        "correctAnswer": "B",
+        "solution" : "Ta thấy đoạn MN có L và r, đoạn AB có tụ C nên uMN  luôn sớm pha hơn uAB →{■(U_0AB=39V@U_0MN=52V) ┤\n Theo bài 63RCω=16→Z_C=63/16 R→U_c=63/16 U_R\t(1)\nMột chu kỳ ứng với 12 ô, nên uMN sớm pha hơn uAB một góc π/2 rad ( 3/12 T=T/4) \n(U_AB ) ⃗=(U_MN ) ⃗+(U_RC ) ⃗→U_oRC=√(U_oAB^2+U_oMN^2 )=65(V); mà U_oRC^2=U_oR^2+U_oC^2 (2)\nTừ (1) và (2) ta có UOC=63V; UoR=16V\nGiải hệ {█(&52^2=U_\"or\" ^2+U_oL^2@&39^2=(16+U_\"or\"  )^2+(U_oL-63)^2 )┤→U_or=20(V)→U_r=10√2(V)→I=U_r/r=(5√2)/9(A)\n→R=U_R/I=14,4Ω→P_AB=(R+r) I^2=20(W)\n"
+      },
+
+      {
+        "question": "Câu 40. Hai con lắc lò xo giống hệt nhau được gắn vào điểm G của một giá cố định như hình bên. Trên phương nằm ngang và phương thẳng đứng, các con lắc đang dao động điều hòa cùng biên độ 14 cm, cùng chu kì T nhưng vuông pha với nhau. Gọi F_G là độ lớn hợp lực của các lực do hai lò xo tác dụng lên giá. Biết khoảng thời gian ngắn nhật giữa hai lần mà F_Gbằng trọng lượng của vật nhỏ của mỗi con lắc là T/4. Lấy g=10 m/s^2. Giá trị của T gần nhất với giá trị nào sau đây?",
+        "image": "https://firebasestorage.googleapis.com/v0/b/e-learning-291c1.appspot.com/o/ExamQuestions%2FTHPT2021Code207%2F40.png?alt=media&token=c501a137-d651-45cc-9fb9-1c426b544961",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "0,58 s."
+          },
+          {
+            "identifier": "B",
+            "answer": "0,62 s."
+          },
+          {
+            "identifier": "C",
+            "answer": "0,74 s."
+          },
+          {
+            "identifier": "D",
+            "answer": "0,69 s."
+          }
+        ],
+        "correctAnswer": "B",
+        "solution" : "Ta có {■(x=A cos\u2061( ωt)@y=A sin\u2061( ωt))┤\t\t(1)\nhai dao động vuông pha →{■(F_x=kA cos\u2061( ωt)@F_y=mg+kA sin\u2061( ωt))┤\t(2)\nvì  , và  \n  thì   hay  \n- thay (3) vào (1) →x=-(kA^2)/2mg (li độ của   khi  ).\nMặt khác:   do ( mg/k=Δl_o)\n T=2π√((Δl_0)/g)=2π√(A/(g√2))=2π√(((14.10^(-2) ))/((10)⋅√2))≈0,625 s\n"
+      }
+    ]
+  },
+
+
+
+  {
+    "id" : "THPTVL2120777",
+    "description": "Đề thi tốt nghiệp THPT năm 2021 môn Vật lý Bộ GD&ĐT mã đề 20777",
+    "questions": [
+      {
+        "question": "Trong chân không, ánh sáng màu tím có bước sóng nằm trong khoảng",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "từ 380 mm đến 440 mm."
+          },
+          {
+            "identifier": "B",
+            "answer": "từ 380 nm đến 440 nm."
+          },
+          {
+            "identifier": "C",
+            "answer": "từ 380 cm đến 440 cm."
+          },
+          {
+            "identifier": "D",
+            "answer": "từ 380 pm đến 440 pm."
+          }
+        ],
+        "correctAnswer": "B"
+      },
+
+      {
+        "question": "Bộ phận nào sau đây là một trong ba bộ phận chính của máy quang phổ lăng kính",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "Mạch biến điệu."
+          },
+          {
+            "identifier": "B",
+            "answer": "Mạch tách sóng."
+          },
+          {
+            "identifier": "C",
+            "answer": "Pin quang điện."
+          },
+          {
+            "identifier": "D",
+            "answer": "Hệ tán sắc."
+          }
+        ],
+        "correctAnswer": "D"
+      },
+
+      {
+        "question": "Đặt điện áp xoay chiều có tần số góc ω vào hai đầu đoạn mạch mắc nối tiếp gồm điện trở, cuộn cảm thuần có độ tự cảm L và tụ điện có điện dung C. Điều kiện để trong mạch có cộng hưởng là",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "ωLC = 1."
+          },
+          {
+            "identifier": "B",
+            "answer": "2ωLC = 1."
+          },
+          {
+            "identifier": "C",
+            "answer": "2(ω^2)LC = 1."
+          },
+          {
+            "identifier": "D",
+            "answer": "(ω^2)LC = 1."
+          }
+        ],
+        "correctAnswer": "D",
+        "solution" : "Mạch có cộng hưởng điện: Z_L=Z_C → ωL=1/ωC → (ω^2)LC=1"
+      },
+
+      {
+        "question": "Để xác định điện dung C của một tụ điện, một học sinh mắc nối tiếp tụ điện này với một điện trở 20 Ω rồi mắc hai đầu đoạn mạch vào một nguồn điện xoay chiều có tần số thay đổi được. Dùng dao động kí điện tử để hiện thị đồng thời đồ thị điện áp giữa hai đầu điện trở và điện áp giữa hai đầu tụ điện (các đường hình sin). Thay đổi tần số của nguồn điện đến khi độ cao của hai đường hình sin trên màn hình dao động kí bằng nhau như hình bên. Biết dao động kí đã được chỉnh thang đo sao cho ứng với mỗi ô vuông trên màn hình thì cạnh nằm ngang là 0,005 s và cạnh thẳng đứng là 5 V. Giá trị của C là",
+        "image": "https://firebasestorage.googleapis.com/v0/b/e-learning-291c1.appspot.com/o/ExamQuestions%2FTHPT2021Code207%2F32.png?alt=media&token=b7466456-85c6-46fd-aa0e-5a7ad926b5ac",
+        "answers": [
+          {
+            "identifier": "A",
+            "answer": "24.10^(-5) F."
+          },
+          {
+            "identifier": "B",
+            "answer": "12.10^(-5) F."
+          },
+          {
+            "identifier": "C",
+            "answer": "6,0.10^(-5) F."
+          },
+          {
+            "identifier": "D",
+            "answer": "3,0.10^(-5) F."
+          }
+        ],
+        "correctAnswer": "A",
+        "solution" : "Từ đồ thị ta thấy T=6.0,005s; do độ cao của hai đường hình sin là như nhau nên UoR=UoC →Z_C=R→1/2πfC=R→T/2πC=R→C=2,387.10^(-4) (F)≈24.10^(-5) (F)"
+      }
+    ]
+  }
+]
